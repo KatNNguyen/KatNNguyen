@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KatNNguyen
-- 👀 I’m interested in ... st u ff
-- 🌱 I’m currently learning ... s t u ff
-- 💞️ I’m looking to collaborate on ... IG
-- 📫 How to reach me ... h t m l
-- 😄 Pronouns: ... s h e
+- 👀 I’m interested in ... html, css, kotlin, VSC, android
+- 🌱 I’m currently learning ... java, CS, Linux, code.
+- 💞️ I’m looking to collaborate on ... IG 
+- 📫 How to reach me ... h t m l // t x t
+- 😄 Pronouns: ... Katherine, she, her
 - ⚡ Fun fact: ... BSVS-BSCS
 
 <!---
