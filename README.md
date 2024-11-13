@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KatNNguyen
 - 👀 I’m interested in ... type.html, keybr.com, type.css, {kotlin}, [VSC], {android}
-- 🌱 I’m currently learning ... java, CS, Linux, code.
-- 💞️ I’m looking to collaborate on ... IG, W3SA, GFG, EEE,S
 
 
 <!---
