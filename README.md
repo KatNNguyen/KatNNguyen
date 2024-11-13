@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @KatNNguyen
-- 👀 I’m interested in ... type.html, keybr.com, type.css, {kotlin}, [VSC], {android}
+I’m interested in ... type.html, keybr.com, type.css, {kotlin}, [VSC], {android}
 
 
 <!---
