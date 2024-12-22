@@ -1,4 +1,4 @@
-I’m interested in ... type.html, keybr.com, type.css, {kotlin}, [VSC], {android}
+I’m interested in ... type.html, type.css, {kotlin}, [VSC], {android}
 
 
 <!---
